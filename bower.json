@@ -1,7 +1,7 @@
 {
   "name": "next-is-array",
   "version": "0.0.1",
-  "description": "ArrayIsArray polly fill for next",
+  "description": "nextBoilerplatePackageDescription",
   "main": "dist/next-is-array.js",
   "authors": [
     "afei"

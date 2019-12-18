@@ -1,12 +1,14 @@
 # next-is-array
-> ArrayIsArray polly fill for next
+> Array.isArray polly fill for next.
 
-## install:
+## installation
 ```bash
-npm install -S afeiship/next-is-array --registry=https://registry.npm.taobao.org
+npm install -S @feizheng/next-is-array
 ```
 
-## usage:
+## usage
 ```js
+import '@feizheng/next-is-array';
+
 //DOCS here!
 ```
