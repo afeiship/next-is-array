@@ -3,7 +3,7 @@
  * description: Array.isArray polly fill for next.
  * homepage: https://github.com/afeiship/next-is-array
  * version: 1.0.0
- * date: 2020-11-22 17:21:49
+ * date: 2020-11-22 17:45:08
  * license: MIT
  */
 
