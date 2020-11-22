@@ -1,19 +1,19 @@
 /*!
- * name: @feizheng/next-is-array
+ * name: @jswork/next-is-array
  * description: Array.isArray polly fill for next.
- * url: https://github.com/afeiship/next-is-array
+ * homepage: https://github.com/afeiship/next-is-array
  * version: 1.0.0
- * date: 2019-12-18 19:17:55
+ * date: 2020-11-22 17:21:49
  * license: MIT
  */
 
-(function() {
+(function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
   nx.isArray =
     Array.isArray ||
-    function(inObj) {
+    function (inObj) {
       return inObj instanceof Array;
     };
 
@@ -21,5 +21,3 @@
     module.exports = nx.isArray;
   }
 })();
-
-//# sourceMappingURL=next-is-array.js.map
